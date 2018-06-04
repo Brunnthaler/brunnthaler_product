@@ -1,11 +1,11 @@
 public class Company
 {
-	private Arraylist products;
+	private TreeSet products;
 	
 	
 	public Company()
 	{
-	
+		
 	
 	}
 
