@@ -1,6 +1,6 @@
 public class Product
 {
-	private String name = "Coca Cola";
+	private String name = "IBM";
 	private boolean onStock = true;
 	
 	public Product()
